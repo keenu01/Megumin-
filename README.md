@@ -4,7 +4,9 @@
   </p>
 Megumin Chat Assistant is a Python application that simulates a conversation between the user and an AI assistant, styled after the character Megumin from the anime "KonoSuba!" The assistant uses OpenAI's GPT-3.5 model to generate responses in the style of Megumin.
 
-## Installation
+<h1 align='center'>
+  Installation
+</h1>
 
 1. **Clone the repository:**
 
