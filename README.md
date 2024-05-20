@@ -3,9 +3,11 @@
   </h1>
 <p align='center'>
   <img src="https://cdn140.picsart.com/252099157002212.png", width="600">
+  
   </p>
-Megumin Chat Assistant is a Python application that simulates a conversation between the user and an AI assistant, styled after the character Megumin from the anime "KonoSuba!" The assistant uses OpenAI's GPT-3.5 model to generate responses in the style of Megumin.
-
+<p align='center'>
+  Megumin Chat Assistant is a Python application that simulates a conversation between the user and an AI assistant, styled after the character Megumin from the anime "KonoSuba!" The assistant uses OpenAI's GPT-3.5 model to generate responses in the style of Megumin.
+</p>
 <h1 align='center'>
   Installation
 </h1>
