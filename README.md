@@ -1,4 +1,6 @@
-# Megumin Chat Assistant
+<h1 align='center'>
+  Megumin.AI
+  </h1>
 <p align='center'>
   <img src="https://cdn140.picsart.com/252099157002212.png", width="600">
   </p>
