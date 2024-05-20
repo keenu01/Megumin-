@@ -19,7 +19,7 @@ except:
 
 print(colored("Importing Complete!!","green"))
 
-key = 'sk-proj-ryviHwwcp6yjW58N0qilT3BlbkFJnEFtTddoWay9psydalNi'
+key = 'sk-proj-YOUR-OWN-API-KEY'
 openai.api_key = key
 translator = Translator(service_urls=[
       'translate.google.com',
