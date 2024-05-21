@@ -15,7 +15,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your_username/megumin-chat-assistant.git
+    git clone https://github.com/keenu01/megumin-.git
     ```
 
 2. **Install the required dependencies:**
