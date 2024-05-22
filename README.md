@@ -29,7 +29,7 @@
     ```
 3. **Download VoicVox DeskTop Application**
    ```bash
-       https://voicevox.hiroshiba.jp/
+   https://voicevox.hiroshiba.jp/
    ```
      
 ## Credits
