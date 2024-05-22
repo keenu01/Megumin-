@@ -4,7 +4,7 @@ import sounddevice as sd
 import numpy as np
 import requests
 from termcolor import colored
-
+#Taken straight from the documenation..
 class Audio_System():
       def __init__ (self):
             self.host = "127.0.0.1"
