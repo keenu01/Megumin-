@@ -50,5 +50,8 @@ if __name__ == "__main__":
             voxy = translator.translate(responce, dest = "ja",src="en" )
             print(f"Megumin:{responce}\nMegumin:{voxy.text}")
             print(colored("Generating TTS..","green"))
-            Audio_System.text_to_voice(text=voxy.text)
+            try:
+                  Audio_System.text_to_voice(text=voxy.text)
+            except:
+                  print(colored("Unable to find the VoiceVox Application\nMaybe Install it?","red")
             print(colored("TTS Completed..\n\n","green"))
