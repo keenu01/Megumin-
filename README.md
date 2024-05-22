@@ -27,7 +27,7 @@
     pip install googletrans==4.0.0-rc1
     pip install sounddevice
     ```
-3. **Download VoicVox DeskTop Application**
+3. **Download VoicVox DeskTop Application (and run it when using the code)**
    ```bash
    https://voicevox.hiroshiba.jp/
    ```
