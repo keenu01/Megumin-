@@ -37,3 +37,8 @@
 - [Termcolor](https://pypi.org/project/termcolor/): For colored terminal text.
 
 
+## TO DO:
+- Make her play OSU through RL
+- Use RVC API
+- Use a Custom-Built LLM with PyTorch
+- cast some explosions
