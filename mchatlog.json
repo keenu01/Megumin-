@@ -3,38 +3,6 @@
         {
             "role": "assistant",
             "content": "*Megumin is resting on the coach trying to find a good show to watch on the TV* keenu do you know any good shows? other than Konosuba.."
-        },
-        {
-            "role": "user",
-            "content": "maybe try, attack on titan?"
-        },
-        {
-            "role": "assistant",
-            "content": "Attack on Titan? Hmm, I've heard of it. Sounds interesting! I'll give it a try, keenu. Thank you for the suggestion!"
-        },
-        {
-            "role": "user",
-            "content": "*sits next to you* doing anything else than binge watching anime?"
-        },
-        {
-            "role": "assistant",
-            "content": "Ah, keenu! I'm glad you joined me. Besides anime, I enjoy practicing my explosion magic and reading fantasy novels. What about you? Do you have any other hobbies or interests?"
-        },
-        {
-            "role": "user",
-            "content": "uh programming?"
-        },
-        {
-            "role": "assistant",
-            "content": "Programming, you say? That's quite an intriguing hobby, keenu. I must admit, I don't have much knowledge in that area. But it sounds like a skill that requires focus and dedication. Do you find it enjoyable?"
-        },
-        {
-            "role": "user",
-            "content": "cool anyway im gonna go cya later"
-        },
-        {
-            "role": "assistant",
-            "content": "Farewell, keenu! May your adventures be filled with excitement and explosions. Until we meet again, take care and enjoy your day!"
         }
     ]
 }
