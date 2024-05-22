@@ -5,7 +5,7 @@ class Megumin():
       def __init__(self):
             pass
 
-      def Banner(self):
+      def Banner(self)-> string:
             self.asci = colored("""
                   
                                                                ███                  █████████   █████
@@ -34,7 +34,7 @@ class Megumin():
         # convert back to json.
                   json.dump(self.file_data, self.file, indent = 4)
 
-      def NLP(self,user_input=' ',history=[]):
+      def NLP(self,user_input=' ',history=[])-> string:
             self.user = user_input
             print("You:",self.user)
             
