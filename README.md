@@ -13,7 +13,7 @@
 </h1>
 
 1. **Clone the repository:**
-
+    
     ```bash
     git clone https://github.com/keenu01/megumin-.git
     ```
@@ -27,11 +27,15 @@
     pip install googletrans==4.0.0-rc1
     pip install sounddevice
     ```
-    
+3. **Download VoixVox DeskTop Application**
+   ```bash
+       https://voicevox.hiroshiba.jp/
+   ```
+     
 ## Credits
 
 - [OpenAI](https://openai.com): For providing the GPT-3.5 model.
-- [Voicevox](https://voicevox.hiroshiba.jp/): For text-to-speech synthesis.
+- [Voicevox](https://voicevox.hiroshiba.jp/): For text-to-speech synthesis (
 - [Googletrans](https://pypi.org/project/googletrans/): For translation services.
 - [Sounddevice](https://pypi.org/project/sounddevice/): For sound processing.
 - [Termcolor](https://pypi.org/project/termcolor/): For colored terminal text.
