@@ -42,7 +42,7 @@
 
 
 ## TO DO:
-- Make her play OSU through RL
+- Make her play OSU through RL (finnaly working on)
 - Use RVC API
 - Use a Custom-Built LLM with PyTorch powerd by reddit!
 - Maybe turn her into an AI Vtuber
