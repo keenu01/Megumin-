@@ -44,7 +44,8 @@
 ## TO DO:
 - Make her play OSU through RL 
 - **~Use RVC API~** ✔️
-- Use a Custom-Built LLM with PyTorch powerd by reddit!**(Focusing on right now)**
+- **~Use a Custom-Built LLM with PyTorch powerd by reddit!~**  ✔️
+- Fine Tune the LLM to behave like Megumin! (**Doing Right NOW!!**)
 - Maybe turn her into an AI Vtuber
 - **~cast some explosions~** ✔️
 
