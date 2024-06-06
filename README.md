@@ -43,7 +43,7 @@
 
 ## TO DO:
 - Make her play OSU through RL 
-- ~Use RVC API~
+- ~Use RVC API~ ✔️
 - Use a Custom-Built LLM with PyTorch powerd by reddit!**(Focusing on right now)**
 - Maybe turn her into an AI Vtuber
 - cast some explosions
