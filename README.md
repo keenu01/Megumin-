@@ -34,7 +34,7 @@
      
 ## Credits
 
-- [OpenAI](https://openai.com): For providing the GPT-3.5 model.
+- [OpenAI](https://openai.com): For providing the GPT-3.5 model. (currently being replaced)
 - [Voicevox](https://voicevox.hiroshiba.jp/): For text-to-speech synthesis
 - [Googletrans](https://pypi.org/project/googletrans/): For translation services.
 - [Sounddevice](https://pypi.org/project/sounddevice/): For sound processing.
