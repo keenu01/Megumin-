@@ -45,8 +45,8 @@
 - **~Make her play Chess through RL~** ✔️
 - **~Make her play chess on Chess.com or LiChess and learn!!~**
 - **~Use RVC API~** ✔️
-- **~Use a Custom-Built LLM with PyTorch powerd by reddit!~**  ✔️
-- Fine Tune the LLM to behave like Megumin! (**Doing Right NOW!!**)
-- Maybe turn her into an AI Vtuber
+- **~Use a Custom-Built LLM with PyTorch powerd by reddit!~**(my pc blew up and lost the code)
+- use chat gpt because im lazy to fine tune llm
+- Turn her into an AI Vtuber
 - **~cast some explosions~** ✔️
 
