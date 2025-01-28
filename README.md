@@ -42,7 +42,8 @@
 
 
 ## TO DO:
-- Make her play OSU through RL 
+- **~Make her play Chess through RL~** ✔️
+- **~Make her play chess on Chess.com or LiChess and learn!!~**
 - **~Use RVC API~** ✔️
 - **~Use a Custom-Built LLM with PyTorch powerd by reddit!~**  ✔️
 - Fine Tune the LLM to behave like Megumin! (**Doing Right NOW!!**)
